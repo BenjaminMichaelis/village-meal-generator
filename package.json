@@ -1,0 +1,30 @@
+{
+  "name": "village-meal-generator",
+  "version": "1.0.0",
+  "description": "A village meal generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenjaminMichaelis/programming-challenges.git"
+  },
+  "keywords": [
+    "Village",
+    "meal",
+    "generator",
+    "random",
+    "chooser",
+    "random",
+    "generator",
+    "random",
+    "picker"
+  ],
+  "author": "Benjamin Michaelis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BenjaminMichaelis/programming-challenges/issues"
+  },
+  "homepage": "https://github.com/BenjaminMichaelis/programming-challenges#readme"
+}
