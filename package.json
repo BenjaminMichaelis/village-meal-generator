@@ -26,5 +26,9 @@
   "bugs": {
     "url": "https://github.com/BenjaminMichaelis/programming-challenges/issues"
   },
-  "homepage": "https://github.com/BenjaminMichaelis/programming-challenges#readme"
+  "homepage": "https://github.com/BenjaminMichaelis/programming-challenges#readme",
+  "dependencies": {
+    "@sentry/browser": "^6.17.2",
+    "@sentry/tracing": "^6.17.2"
+  }
 }

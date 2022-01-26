@@ -2,8 +2,19 @@
 require("./prepend.js");
 const $for = require("for-next");
 const BezierEasing = require("bezier-easing");
+import * as Sentry from "@sentry/browser";
+import { Integrations } from "@sentry/tracing";
 
 (function(){
+  Sentry.init({
+    dsn: "https://d54421f6ef204b12a30647079746501a@o1080390.ingest.sentry.io/6169671",
+    integrations: [new Integrations.BrowserTracing()],
+  
+    // Set tracesSampleRate to 1.0 to capture 100%
+    // of transactions for performance monitoring.
+    // We recommend adjusting this value in production
+    tracesSampleRate: 1.0,
+  });
 
   const $ = query => Array.from(document.querySelectorAll(query));
 
