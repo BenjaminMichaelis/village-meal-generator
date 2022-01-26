@@ -2,7 +2,7 @@ window["Village Meal Generator v1.0"] = [
   {
     "label": "BYOC (Bring your own cereal night)",
     "level": 1,
-    "notes": ""
+    "notes": "Everyone brings there favorite type of cereal!"
   },
   {
     "label": "Lasagna",
