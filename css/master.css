@@ -32,8 +32,6 @@ body{
   opacity: .5;
 }
 .socials__img--github:hover, .socials__img--github:hover > path{ fill: #000000; opacity: 1; }
-.socials__img--discord:hover, .socials__img--discord:hover > path{ fill: #7289DA; opacity: 1; }
-.socials__img--twitter:hover, .socials__img--twitter:hover > path{ fill: #1DA1F2; opacity: 1; }
 
 .color--green{ color: var(--green); }
 .color--yellow{ color: var(--yellow); }
