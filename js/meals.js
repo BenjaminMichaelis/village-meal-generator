@@ -14,7 +14,7 @@ window["Village Meal Generator v1.0"] = [
     "notes": "https://www.spendwithpennies.com/wprm_print/recipe/145181"
   },
   {
-    "label": "Pizza",
+    "label": "Pick Up Pizza",
     "level": 3,
     "notes": ""
   },
@@ -50,6 +50,31 @@ window["Village Meal Generator v1.0"] = [
   },
   {
     "label": "Macaroni",
+    "level": 0,
+    "notes": ""
+  },
+  {
+    "label": "Gigi Hadid's Pasta",
+    "level": 1,
+    "notes": "https://www.saltysidedish.com/gigi-hadid-pasta/"
+  },
+  {
+    "label": "Sandwich Bar",
+    "level": 0,
+    "notes": "Just gotta provide the basics"
+  },
+  {
+    "label": "Enchiladas",
+    "level": 1,
+    "notes": ""
+  },
+  {
+    "label": "Deconstructed Enchiladas",
+    "level": 1,
+    "notes": "https://tastykitchen.com/recipes/main-courses/easy-deconstructed-enchiladas/"
+  },
+  {
+    "label": "Hamburgers and hot dogs",
     "level": 0,
     "notes": ""
   },
