@@ -46,10 +46,10 @@ window["Village Meal Generator v1.0"] = [
   {
     "label": "Tacos",
     "level": 1,
-    "notes": ""
+    "notes": "Ground beef, taco seasoning, taco toppings"
   },
   {
-    "label": "Macaroni",
+    "label": "Macaroni and cheese",
     "level": 0,
     "notes": ""
   },
@@ -75,7 +75,67 @@ window["Village Meal Generator v1.0"] = [
   },
   {
     "label": "Hamburgers and hot dogs",
-    "level": 0,
+    "level": 1,
     "notes": ""
+  },
+  {
+    "label": "Chicken nuggets and tater tots",
+    "level": 0,
+    "notes": "Just buy the frozen stuff and put it in the oven"
+  },
+  {
+    "label": "Mini Pizzas",
+    "level": 0,
+    "notes": "English muffins, sauce, cheese, pepperoni"
+  },
+  {
+    "label": "Cheeseburger wraps",
+    "level": 1,
+    "notes": "https://www.organizeyourselfskinny.com/grilled-cheeseburger-wrap/"
+  },
+  {
+    "label": "Burrito Bowls",
+    "level": 0,
+    "notes": "https://easychickenrecipes.com/copycat-chicken-burrito-bowl/"
+  },
+  {
+    "label": "Breakfast for dinner",
+    "level": 0,
+    "notes": "Classic"
+  },
+  {
+    "label": "Street Tacos",
+    "level": 0,
+    "notes": "Easy and delicious"
+  },
+  {
+    "label": "Enchiladas",
+    "level": 1,
+    "notes": "https://www.bettycrocker.com/recipes/easy-beef-enchiladas/c43a8fe7-628d-4f29-8492-1c7f87b05bc9"
+  },
+  {
+    "label": "Chili and Corn Bread",
+    "level": 1,
+    "notes": "https://therecipecritic.com/chili-recipe/  (add a little worcestershire sauce and liquid smoke!!)"
+  },
+  {
+    "label": "Pasta Salad",
+    "level": 0,
+    "notes": "Easy idea!"
+  },
+  {
+    "label": "Meatloaf",
+    "level": 2,
+    "notes": "If you make it good, not too bad!"
+  },
+  {
+    "label": "Sliders",
+    "level": 1,
+    "notes": "https://www.averiecooks.com/ham-cheese-sliders/"
+  },
+  {
+    "label": "Loco Moco",
+    "level": 1,
+    "notes": "https://www.foodnetwork.com/recipes/guy-fieri/loco-moco-recipe-2043347"
   },
 ];
