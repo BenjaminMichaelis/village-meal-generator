@@ -138,4 +138,13 @@ window["Village Meal Generator v1.0"] = [
     "level": 1,
     "notes": "https://www.foodnetwork.com/recipes/guy-fieri/loco-moco-recipe-2043347"
   },
+  {
+    "label": "Chicken Parmesan",
+    "level": 1,
+    "notes": "https://cooking.nytimes.com/recipes/1017169-chicken-parmesan"
+  },
+  {
+    "label": "French toast",
+    "level": 0,
+    "notes": "Delicious Breakfast"
 ];
