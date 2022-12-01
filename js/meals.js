@@ -147,4 +147,5 @@ window["Village Meal Generator v1.0"] = [
     "label": "French toast",
     "level": 0,
     "notes": "Delicious Breakfast"
+  },
 ];
