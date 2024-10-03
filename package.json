@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/BenjaminMichaelis/village-meal-generator#readme",
   "dependencies": {
-    "@sentry/browser": "^6.17.2",
+    "@sentry/browser": "^8.33.0",
     "@sentry/tracing": "^6.17.2"
   }
 }
